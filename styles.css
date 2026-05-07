@@ -8,21 +8,21 @@
 
 .container1 {
     /* background-color: aqua; */
-    background-image: url('/images/image.png');
+    background-image: url(Image.png);
     background-size: cover;
     background-position: center;
     height: 100vh;
 }
 
 .heading1 {
-    color: white;
+    color:white;
     text-align: center;
     padding: 10px;
-
+    font-size: 40px;
 }
 
-.image1 {
-    text-align: center;
+p {
+    color: white;
 }
 
 .image-division {
